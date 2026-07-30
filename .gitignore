@@ -1,1 +1,19 @@
 ratecraft.md
+# Compiled binaries
+server
+*.out
+*.o
+
+# Debug files
+*.log
+
+# Core dumps
+core
+core.*
+
+# VS Code
+.vscode/
+
+# Build directories
+build/
+bin/
